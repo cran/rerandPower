@@ -1,0 +1,13 @@
+5eec63b386406f3755a1e26cd70573c3 *DESCRIPTION
+d760ae05856e29777de9788c8f5e8b3b *LICENSE
+ce1b36fa4c5a8613ad5e3a0faa45adfe *NAMESPACE
+f95e0ae763c305f3ab850174f3d7421c *R/power.rand.R
+d5cca8fa15c020915b887c0198cfff1b *R/power.rerand.R
+d4798cfdd393eccd3468298befba7986 *R/sampleSize.rand.R
+f433e88053f7b22cccadaaf0f7d869f6 *R/sampleSize.rerand.R
+7869e29921b7af272d233f96bdba9cd2 *R/sample_std_rerand.R
+4aa07d75e417ec76396fbb0910807307 *man/power.rand.Rd
+2fd3c3a457783175d93e253f696ed687 *man/power.rerand.Rd
+f9b837b92bd82dd6066e6807c5fdfb92 *man/sampleSize.rand.Rd
+844bae1f47a115f2e169903899422f83 *man/sampleSize.rerand.Rd
+d822b5533e04474dbb414681464dd93f *man/sample_std_rerand.Rd
